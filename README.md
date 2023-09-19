@@ -16,7 +16,7 @@ This program is designed to scrape content from Patreon creators, focusing prima
 1. **Starting a Remote Debugging Session in Chrome**:
    - First, start Chrome with remote debugging enabled on port 9223:
      ```
-     chrome.exe --remote-debugging-port=9223
+     chrome --remote-debugging-port=9223
      ```
    - Ensure no other Chrome windows are open when you start this.
 
